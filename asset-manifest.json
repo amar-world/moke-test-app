@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/moke-test/static/css/main.eba1ede6.chunk.css",
-    "main.js": "/moke-test/static/js/main.b173c4f1.chunk.js",
-    "main.js.map": "/moke-test/static/js/main.b173c4f1.chunk.js.map",
-    "runtime-main.js": "/moke-test/static/js/runtime-main.e6cc9cb4.js",
-    "runtime-main.js.map": "/moke-test/static/js/runtime-main.e6cc9cb4.js.map",
-    "static/css/2.1468f438.chunk.css": "/moke-test/static/css/2.1468f438.chunk.css",
-    "static/js/2.314d9580.chunk.js": "/moke-test/static/js/2.314d9580.chunk.js",
-    "static/js/2.314d9580.chunk.js.map": "/moke-test/static/js/2.314d9580.chunk.js.map",
-    "index.html": "/moke-test/index.html",
-    "precache-manifest.784104aa68eef3296b68903420e92edd.js": "/moke-test/precache-manifest.784104aa68eef3296b68903420e92edd.js",
-    "service-worker.js": "/moke-test/service-worker.js",
-    "static/css/2.1468f438.chunk.css.map": "/moke-test/static/css/2.1468f438.chunk.css.map",
-    "static/css/main.eba1ede6.chunk.css.map": "/moke-test/static/css/main.eba1ede6.chunk.css.map",
-    "static/js/2.314d9580.chunk.js.LICENSE.txt": "/moke-test/static/js/2.314d9580.chunk.js.LICENSE.txt"
+    "main.css": "/moke-test-app/static/css/main.eba1ede6.chunk.css",
+    "main.js": "/moke-test-app/static/js/main.09a66498.chunk.js",
+    "main.js.map": "/moke-test-app/static/js/main.09a66498.chunk.js.map",
+    "runtime-main.js": "/moke-test-app/static/js/runtime-main.406ea4be.js",
+    "runtime-main.js.map": "/moke-test-app/static/js/runtime-main.406ea4be.js.map",
+    "static/css/2.1468f438.chunk.css": "/moke-test-app/static/css/2.1468f438.chunk.css",
+    "static/js/2.11979207.chunk.js": "/moke-test-app/static/js/2.11979207.chunk.js",
+    "static/js/2.11979207.chunk.js.map": "/moke-test-app/static/js/2.11979207.chunk.js.map",
+    "index.html": "/moke-test-app/index.html",
+    "precache-manifest.9822fd027cfa9da74119addc84ad909b.js": "/moke-test-app/precache-manifest.9822fd027cfa9da74119addc84ad909b.js",
+    "service-worker.js": "/moke-test-app/service-worker.js",
+    "static/css/2.1468f438.chunk.css.map": "/moke-test-app/static/css/2.1468f438.chunk.css.map",
+    "static/css/main.eba1ede6.chunk.css.map": "/moke-test-app/static/css/main.eba1ede6.chunk.css.map",
+    "static/js/2.11979207.chunk.js.LICENSE.txt": "/moke-test-app/static/js/2.11979207.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6cc9cb4.js",
+    "static/js/runtime-main.406ea4be.js",
     "static/css/2.1468f438.chunk.css",
-    "static/js/2.314d9580.chunk.js",
+    "static/js/2.11979207.chunk.js",
     "static/css/main.eba1ede6.chunk.css",
-    "static/js/main.b173c4f1.chunk.js"
+    "static/js/main.09a66498.chunk.js"
   ]
 }
