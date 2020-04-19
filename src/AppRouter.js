@@ -9,7 +9,8 @@ class AppRouter extends Component {
     return (
       <Switch>
         <Route exact path="/" component={PorpsComponent(QuestionForm)}></Route>
-        <Route exact path="/question-form" component={PorpsComponent(QuestionForm)}></Route>
+        <Route exact path="/moke-test-app" component={PorpsComponent(QuestionForm)}></Route>
+        <Route exact path="/moke-test" component={PorpsComponent(QuestionForm)}></Route>
         {/* <Route exact path="/createTask" component={PorpsComponent(CreateTask)}></Route>
         <Route exact path="/createProject" component={PorpsComponent(CreateProject)}></Route> */}
       </Switch>
