@@ -1,6 +1,6 @@
 {
-  "homepage": "http://amar-world.github.io/moke-test",
-  "name": "moke-test",
+  "homepage": "http://amar-world.github.io/moke-test-app",
+  "name": "moke-test-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
