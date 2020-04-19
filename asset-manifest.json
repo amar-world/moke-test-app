@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/moke-test/static/css/main.eba1ede6.chunk.css",
-    "main.js": "/moke-test/static/js/main.515a90e5.chunk.js",
-    "main.js.map": "/moke-test/static/js/main.515a90e5.chunk.js.map",
+    "main.js": "/moke-test/static/js/main.b173c4f1.chunk.js",
+    "main.js.map": "/moke-test/static/js/main.b173c4f1.chunk.js.map",
     "runtime-main.js": "/moke-test/static/js/runtime-main.e6cc9cb4.js",
     "runtime-main.js.map": "/moke-test/static/js/runtime-main.e6cc9cb4.js.map",
     "static/css/2.1468f438.chunk.css": "/moke-test/static/css/2.1468f438.chunk.css",
     "static/js/2.314d9580.chunk.js": "/moke-test/static/js/2.314d9580.chunk.js",
     "static/js/2.314d9580.chunk.js.map": "/moke-test/static/js/2.314d9580.chunk.js.map",
     "index.html": "/moke-test/index.html",
-    "precache-manifest.1e6b308a0a8e2d695b4039c88275b16e.js": "/moke-test/precache-manifest.1e6b308a0a8e2d695b4039c88275b16e.js",
+    "precache-manifest.784104aa68eef3296b68903420e92edd.js": "/moke-test/precache-manifest.784104aa68eef3296b68903420e92edd.js",
     "service-worker.js": "/moke-test/service-worker.js",
     "static/css/2.1468f438.chunk.css.map": "/moke-test/static/css/2.1468f438.chunk.css.map",
     "static/css/main.eba1ede6.chunk.css.map": "/moke-test/static/css/main.eba1ede6.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.1468f438.chunk.css",
     "static/js/2.314d9580.chunk.js",
     "static/css/main.eba1ede6.chunk.css",
-    "static/js/main.515a90e5.chunk.js"
+    "static/js/main.b173c4f1.chunk.js"
   ]
 }
