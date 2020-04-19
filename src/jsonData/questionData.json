@@ -1,0 +1,38 @@
+[
+  {
+    "questionText": "A and B together have Rs. 1210. If  of A's amount is equal to  of B's amount, how much amount does B have?",
+
+    "firstOption": "Rs.460",
+    "secondOption": "Rs.484",
+    "thirdOption": "Rs.550",
+    "fourthOption": "Rs.664"
+  },
+  {
+    "questionText": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:",
+    "firstOption": "2 : 5",
+    "secondOption": "3 : 5",
+    "thirdOption": "4 : 5",
+    "fourthOption": "6 : 7"
+  },
+  {
+    "questionText": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B's share?",
+    "firstOption": "Rs. 500",
+    "secondOption": "Rs. 1500",
+    "thirdOption": "Rs. 2000",
+    "fourthOption": "None of these"
+  },
+  {
+    "questionText": "Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+    "firstOption": "2 : 3 : 4",
+    "secondOption": "6 : 7 : 8",
+    "thirdOption": "6 : 8 : 9",
+    "fourthOption": "None of these"
+  },
+  {
+    "questionText": "In a mixture 60 litres, the ratio of milk and water 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:",
+    "firstOption": "20 litres",
+    "secondOption": "30 litres",
+    "thirdOption": "40 litres",
+    "fourthOption": "60 litres"
+  }
+]

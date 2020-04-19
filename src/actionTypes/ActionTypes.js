@@ -1,0 +1,6 @@
+// Header Types
+export const GET_HEADER_DATA = 'GET_HEADER_DATA';
+//DASHBOARD TYPES
+export const GET_DASHBOARD_DATA = 'GET_DASHBOARD_DATA';
+// Create Task types
+export const GET_QUESTION_LIST_DATA = 'GET_QUESTION_LIST_DATA';
