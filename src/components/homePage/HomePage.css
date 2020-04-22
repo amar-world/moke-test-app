@@ -1,0 +1,7 @@
+.red-square {
+    background-color: rgb(248, 212, 210);
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }

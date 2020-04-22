@@ -13,7 +13,7 @@ export const createTaskReducer = (state = initialState, action) => {
 
         case ActionType.GET_CREATE_DROPDOWN_DATA: {
             newState = cloneDeep(state);
-            console.log(action.payload);
+            // console.log(action.payload);
             newState.projectList = action.payload.projectList;
             return newState;
         }

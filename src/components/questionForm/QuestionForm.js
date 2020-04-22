@@ -12,23 +12,25 @@ class QuestionForm extends Component {
 
     this.state = {
       questionList: [],
+      remaningTime: undefined,
     };
   }
 
-  onSubmitOfQuestion = (event) => {
+  onSubmitOfQuestion = async (event) => {
     event.preventDefault();
     const questionData = this.props.QuestionReducer.questionList;
-    console.log(questionData);
+    const data = await this.props.actions.submitQuestionPaper(questionData);
+    if(data.isSuccess){
+        this.props.history.replace("/logout");
+    }
   };
 
   componentDidMount() {
     this.props.actions.getQuestionList();
-    // console.log(data);
   }
-
   render() {
     return (
-      <div >
+      <div>
         {map(this.props.QuestionReducer.questionList, (eachQuestion, index) => {
           return (
             <div className="question-form-block">
@@ -40,7 +42,7 @@ class QuestionForm extends Component {
           );
         })}
         <div className="footer">
-          <Button onChange={this.onSubmitOfQuestion}>Submit</Button>
+          <Button onClick={this.onSubmitOfQuestion}>Submit</Button>
         </div>
       </div>
     );
